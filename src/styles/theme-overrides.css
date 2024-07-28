@@ -1,0 +1,7 @@
+.p-rating-cancel-item {
+  display: none;
+}/*# sourceMappingURL=theme-overrides.css.map */
+
+input.ng-invalid {
+  border: 1px solid red;
+}
